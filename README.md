@@ -1,5 +1,5 @@
 🔐 Windows Password Manager (C++ | WinAPI)
-
+ 
 A GUI-based Password Manager built using C++ and the Windows API (Win32).
 This application allows users to securely store, search, and generate passwords using basic encryption techniques.
 
